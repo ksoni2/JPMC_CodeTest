@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 11 23:24:02 GST 2019
+kafka-avro-serializer-5.0.0.jar>confluent=
+kafka-avro-serializer-5.0.0.pom>confluent=
